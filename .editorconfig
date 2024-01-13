@@ -1,0 +1,6 @@
+root = true 
+
+[*]
+
+style_ident = space 
+style_size = 2 
